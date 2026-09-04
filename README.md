@@ -15,6 +15,10 @@ Skinner is a VB.NET WinForms MDI editor for Centrafuse Auto car-PC skins. It loa
 
 Open `Centrafuse.sln` in Visual Studio 2008 (or later with .NET Framework 3.5 targeting). On load the app looks for `...\Centrafuse\Centrafuse Auto\Skins\Zed\skin.xml`; change `m_SkinName` in `ParentForm.vb` to point at another installed skin.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly title / product:** My Skinner
