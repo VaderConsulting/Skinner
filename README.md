@@ -25,9 +25,9 @@ Open `Centrafuse.sln` in Visual Studio 2008 (or later with .NET Framework 3.5 ta
 - **Assembly company:** Microsoft (Visual Studio Windows Forms project template default)
 - **Assembly copyright:** Copyright © Microsoft 2009
 - **Root namespace / solution:** Centrafuse (`Centrafuse.sln`)
-- **Centrafuse Auto:** third-party in-car entertainment software (Flux Media / Centrafuse). This tree is Dave Robinson’s working copy of a skin editor; it models the skin XML schema in VB.NET and does not include Centrafuse SDK binaries or a skin pack.
-- Working copy from Dave Robinson’s OneDrive Historical Dev folder `Skinner`
+- **Centrafuse Auto:** third-party in-car entertainment software (Flux Media / Centrafuse). This tree is my working copy of a skin editor; it models the skin XML schema in VB.NET and does not include Centrafuse SDK binaries or a skin pack.
+- Working copy from my Historical Dev folder `Skinner`
 
 ## License
 
-MIT. Copyright (c) 2026 VaderConsulting, for Dave Robinson’s code. See `LICENSE`. Centrafuse product names and the skin XML schema remain the original vendor’s.
+MIT. Copyright (c) 2026 VaderConsulting, for Dave Robinson's code. See `LICENSE`. Centrafuse product names and the skin XML schema remain the original vendor's.
