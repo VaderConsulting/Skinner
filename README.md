@@ -30,4 +30,4 @@ Open `Centrafuse.sln` in Visual Studio 2008 (or later with .NET Framework 3.5 ta
 
 ## License
 
-MIT. Copyright (c) 2026 VaderConsulting, for Dave Robinson's code. See `LICENSE`. Centrafuse product names and the skin XML schema remain the original vendor's.
+MIT. Copyright (c) 2026 Vader Consulting, for Dave Robinson's code. See `LICENSE`. Centrafuse product names and the skin XML schema remain the original vendor's.
